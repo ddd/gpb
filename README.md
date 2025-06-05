@@ -1,7 +1,7 @@
 
 # gpb
 
-This repo contains files relevant to my blog post [Bruteforcing the phone number of any Google user](/articles/leaking-google-phones).
+This repo contains files relevant to my blog post [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones).
 
 > [!IMPORTANT]  
 > This vulnerability has already been patched and as such, this program will no longer work.
